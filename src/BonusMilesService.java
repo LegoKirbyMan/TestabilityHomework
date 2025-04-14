@@ -1,5 +1,5 @@
 public class BonusMilesService {
-    public int calculate(int In) {
+    public int calculateBonus(int In) {
         return In / 20;
     }
 }
